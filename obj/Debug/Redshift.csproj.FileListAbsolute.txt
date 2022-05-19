@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Redshift\bin\Debug\Redshift.exe.config
+C:\Users\Admin\source\repos\Redshift\bin\Debug\Redshift.exe
+C:\Users\Admin\source\repos\Redshift\bin\Debug\Redshift.pdb
+C:\Users\Admin\source\repos\Redshift\obj\Debug\Redshift.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Redshift\obj\Debug\Redshift.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Redshift\obj\Debug\Redshift.Form1.resources
+C:\Users\Admin\source\repos\Redshift\obj\Debug\Redshift.Properties.Resources.resources
+C:\Users\Admin\source\repos\Redshift\obj\Debug\Redshift.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Redshift\obj\Debug\Redshift.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Redshift\obj\Debug\Redshift.exe
+C:\Users\Admin\source\repos\Redshift\obj\Debug\Redshift.pdb
